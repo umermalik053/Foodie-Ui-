@@ -1,0 +1,18 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 970px;
+    margin: 0 auto;
+    display: fixed;
+}
+ul{
+    list-style: none;
+    display: flex;
+    column-gap: 20px;
+    font-size: 22px;
+    align-items: center;
+}
+h1{
+    font-size: 36px;
+}
