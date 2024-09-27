@@ -44,3 +44,12 @@ export const card = [{
 
 }
 ]
+
+export const contact = {
+  title: 'Contact Us From Here',
+  text: 'You can contact us from here, you can write to us, call us or visit our service center, we will gladly assist you.',
+  tel: 'Telephone: 123 - 456 - 789',
+  email: 'Email: delivery@email.com',
+  location: 'Location: Planet Earth',
+ 
+}

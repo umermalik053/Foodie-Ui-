@@ -4,6 +4,8 @@ import Banner from "../components/Banner/Banner";
 import { banner, card } from "../utils/constant/index";
 import "./Home.css";
 import Card from "../components/common/Card/Card";
+import Contact from "../components/Contact/Contact";
+import Footer from "../components/Footer/Footer";
 const Home = () => {
   console.log(banner[0]);
   return (
@@ -19,7 +21,10 @@ const Home = () => {
         })}
       </div>
       <Banner isbutton2 isbutton isrotate data={banner[3]} />
+      <Contact/>
+      <Footer/>
     </div>
+    
   );
 };
 

@@ -1,0 +1,20 @@
+.contactParent{
+   max-width: 970px;
+   display: flex;  
+   margin: 0 auto;
+   justify-content: space-between;
+   align-items: center;  
+   height: 250px;
+}
+.section1{
+    max-width: 400px;
+}
+.section2 ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+    font-weight: 600;
+
+}

@@ -4,15 +4,17 @@
     align-items: center;
     max-width: 970px;
     margin: 0 auto;
-    display: fixed;
+    margin-top: 20px;
+   
 }
-ul{
+.navLink ul{
     list-style: none;
     display: flex;
     column-gap: 20px;
     font-size: 22px;
     align-items: center;
 }
-h1{
+.logo h1{
     font-size: 36px;
+    /* margin-top: 20px; */
 }
